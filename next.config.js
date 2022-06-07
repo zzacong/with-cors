@@ -18,6 +18,6 @@ const nextConfig = {
 }
 
 const allowedOrigins =
-  'https://with-cors-2.vercel.app,https://with-cors-3.vercel.app'
+  'https://with-cors-2.vercel.app;https://with-cors-3.vercel.app'
 
 module.exports = nextConfig
