@@ -1,10 +1,11 @@
-import Image from 'next/image'
-
 import Wrapper from '$components/Wrapper'
+import PageTitle from '$components/PageTitle'
 
 export default function FlowerPage() {
   return (
     <Wrapper>
+      <PageTitle>Flower</PageTitle>
+
       <img
         src={`${process.env.NEXT_PUBLIC_FLOWER_HOST}/flower.jpg`}
         alt="flower"
