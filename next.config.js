@@ -9,18 +9,7 @@ const nextConfig = {
         headers: [
           {
             key: 'Access-Control-Allow-Origin',
-            value: '',
-          },
-          {
-            key: 'Access-Control-Allow-Origin',
-            has: [
-              {
-                type: 'header',
-                key: 'origin',
-                value: `(${allowedOrigins.split(',').join('|')})`,
-              },
-            ],
-            value: '*',
+            value: allowedOrigins,
           },
         ],
       },
