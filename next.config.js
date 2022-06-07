@@ -9,7 +9,8 @@ const nextConfig = {
         headers: [
           {
             key: 'Access-Control-Allow-Origin',
-            value: 'https://with-cors-3.vercel.app',
+            value:
+              'https://with-cors-2.vercel.app,https://with-cors-3.vercel.app',
           },
         ],
       },
