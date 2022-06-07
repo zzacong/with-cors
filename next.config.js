@@ -9,13 +9,22 @@ const nextConfig = {
         headers: [
           {
             key: 'Access-Control-Allow-Origin',
-            value:
-              'https://with-cors-2.vercel.app,https://with-cors-3.vercel.app',
+            has: [
+              {
+                type: 'header',
+                key: 'host',
+                value: `(${allowedOrigins.split(',').join('|')})`,
+              },
+            ],
+            value: '*',
           },
         ],
       },
     ]
   },
 }
+
+const allowedOrigins =
+  'https://with-cors-2.vercel.app,https://with-cors-3.vercel.app'
 
 module.exports = nextConfig
