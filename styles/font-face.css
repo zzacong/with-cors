@@ -3,7 +3,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 100;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-Thin.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-Thin.otf')
     format('opentype');
 }
 
@@ -12,7 +12,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 200;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-UltraLight.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-UltraLight.otf')
     format('opentype');
 }
 
@@ -21,7 +21,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 300;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-Light.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-Light.otf')
     format('opentype');
 }
 
@@ -30,7 +30,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 400;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-Regular.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-Regular.otf')
     format('opentype');
 }
 
@@ -39,7 +39,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 500;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-Medium.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-Medium.otf')
     format('opentype');
 }
 
@@ -48,7 +48,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 600;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-SemiBold.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-SemiBold.otf')
     format('opentype');
 }
 
@@ -57,7 +57,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 700;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-Bold.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-Bold.otf')
     format('opentype');
 }
 
@@ -66,7 +66,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 800;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-ExtraBold.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-ExtraBold.otf')
     format('opentype');
 }
 
@@ -75,7 +75,7 @@
   font-family: 'Gilroy';
   font-style: normal;
   font-weight: 900;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-Black.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-Black.otf')
     format('opentype');
 }
 
@@ -84,7 +84,7 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 100;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-ThinItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-ThinItalic.otf')
     format('opentype');
 }
 
@@ -93,7 +93,7 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 200;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-UltraLightItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-UltraLightItalic.otf')
     format('opentype');
 }
 
@@ -102,7 +102,7 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 300;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-LightItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-LightItalic.otf')
     format('opentype');
 }
 
@@ -111,7 +111,7 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 400;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-RegularItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-RegularItalic.otf')
     format('opentype');
 }
 
@@ -120,7 +120,7 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 500;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-MediumItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-MediumItalic.otf')
     format('opentype');
 }
 
@@ -129,7 +129,7 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 600;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-SemiBoldItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-SemiBoldItalic.otf')
     format('opentype');
 }
 
@@ -138,7 +138,7 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 700;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-BoldItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-BoldItalic.otf')
     format('opentype');
 }
 
@@ -147,7 +147,7 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 800;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-ExtraBoldItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-ExtraBoldItalic.otf')
     format('opentype');
 }
 
@@ -156,6 +156,6 @@
   font-family: 'Gilroy';
   font-style: italic;
   font-weight: 900;
-  src: url('https://with-cors-1.vercel.app/fonts/RadomirTinkov-Gilroy-BlackItalic.otf')
+  src: url('https://with-cors-1.vercel.app/_next/static/media/RadomirTinkov-Gilroy-BlackItalic.otf')
     format('opentype');
 }
